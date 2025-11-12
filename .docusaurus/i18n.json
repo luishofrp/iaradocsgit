@@ -11,7 +11,10 @@
       "direction": "ltr",
       "htmlLang": "pt-br",
       "calendar": "gregory",
-      "path": "pt-br"
+      "path": "pt-br",
+      "translate": false,
+      "url": "https://docs.iara.tech",
+      "baseUrl": "/"
     }
   }
 }

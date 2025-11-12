@@ -1,0 +1,47 @@
+{
+  "permalink": "/notas-de-versao/atua_100325/atua_100325",
+  "editUrl": "https://github.com/luishofrp/iaradocsgit/tree/main/notas-de-versao/atua_100325/atua_100325.md",
+  "source": "@site/notas-de-versao/atua_100325/atua_100325.md",
+  "title": "Atualização 10/03/2025",
+  "description": "📌 Sumário",
+  "date": "2025-03-10T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "atualização",
+      "permalink": "/notas-de-versao/tags/atualizacao"
+    },
+    {
+      "inline": true,
+      "label": "features",
+      "permalink": "/notas-de-versao/tags/features"
+    }
+  ],
+  "readingTime": 2.05,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Luís Fachin",
+      "title": "Product Owner - Iara Tech",
+      "imageURL": "https://github.com/luishofrp.png",
+      "key": "luis_fachin",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "title": "Atualização 10/03/2025",
+    "date": "2025-03-10T00:00:00.000Z",
+    "authors": [
+      "luis_fachin"
+    ],
+    "tags": [
+      "atualização",
+      "features"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Atualização 08/05/2025",
+    "permalink": "/notas-de-versao/atua_080525/atua_080525"
+  }
+}

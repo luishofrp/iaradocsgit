@@ -1,5 +1,5 @@
 {
-  "blogBasePath": "/blog",
-  "blogTitle": "Blog",
-  "authorsListPath": "/blog/authors"
+  "blogBasePath": "/notas-de-versao",
+  "blogTitle": "Notas de Versão",
+  "authorsListPath": "/notas-de-versao/authors"
 }

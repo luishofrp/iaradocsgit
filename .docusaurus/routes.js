@@ -38,28 +38,63 @@ export default [
     exact: true
   },
   {
-    path: '/blog',
-    component: ComponentCreator('/blog', 'b08'),
-    exact: true
-  },
-  {
-    path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', '182'),
-    exact: true
-  },
-  {
-    path: '/blog/atua_080525/atua_080525',
-    component: ComponentCreator('/blog/atua_080525/atua_080525', 'e3e'),
-    exact: true
-  },
-  {
-    path: '/blog/atua_100325/atua_100325',
-    component: ComponentCreator('/blog/atua_100325/atua_100325', '26b'),
-    exact: true
-  },
-  {
     path: '/markdown-page',
     component: ComponentCreator('/markdown-page', '3d7'),
+    exact: true
+  },
+  {
+    path: '/notas-de-versao',
+    component: ComponentCreator('/notas-de-versao', 'e11'),
+    exact: true
+  },
+  {
+    path: '/notas-de-versao/archive',
+    component: ComponentCreator('/notas-de-versao/archive', '988'),
+    exact: true
+  },
+  {
+    path: '/notas-de-versao/atua_080525/atua_080525',
+    component: ComponentCreator('/notas-de-versao/atua_080525/atua_080525', 'c00'),
+    exact: true
+  },
+  {
+    path: '/notas-de-versao/atua_100325/atua_100325',
+    component: ComponentCreator('/notas-de-versao/atua_100325/atua_100325', 'd26'),
+    exact: true
+  },
+  {
+    path: '/notas-de-versao/authors',
+    component: ComponentCreator('/notas-de-versao/authors', 'ea0'),
+    exact: true
+  },
+  {
+    path: '/notas-de-versao/tags',
+    component: ComponentCreator('/notas-de-versao/tags', '00b'),
+    exact: true
+  },
+  {
+    path: '/notas-de-versao/tags/atualizacao',
+    component: ComponentCreator('/notas-de-versao/tags/atualizacao', 'ba9'),
+    exact: true
+  },
+  {
+    path: '/notas-de-versao/tags/features',
+    component: ComponentCreator('/notas-de-versao/tags/features', '8d7'),
+    exact: true
+  },
+  {
+    path: '/relatar-bug',
+    component: ComponentCreator('/relatar-bug', '167'),
+    exact: true
+  },
+  {
+    path: '/search',
+    component: ComponentCreator('/search', '822'),
+    exact: true
+  },
+  {
+    path: '/solicitar-melhoria',
+    component: ComponentCreator('/solicitar-melhoria', 'a3f'),
     exact: true
   },
   {

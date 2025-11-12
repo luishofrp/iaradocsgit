@@ -7,12 +7,11 @@ export default {
   "title": "Iara Docs",
   "tagline": "Documentação do Iara",
   "favicon": "img/favicon.ico",
-  "url": "https://your-docusaurus-site.example.com",
+  "url": "https://docs.iara.tech",
   "baseUrl": "/",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "organizationName": "luishofrp",
+  "projectName": "iaradocsgit",
   "onBrokenLinks": "throw",
-  "onBrokenMarkdownLinks": "warn",
   "i18n": {
     "defaultLocale": "pt-br",
     "locales": [
@@ -27,7 +26,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "./sidebars.ts",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/luishofrp/iaradocsgit/tree/main/"
         },
         "blog": {
           "showReadingTime": true,
@@ -38,10 +37,16 @@ export default {
             ],
             "xslt": true
           },
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+          "editUrl": "https://github.com/luishofrp/iaradocsgit/tree/main/",
           "onInlineTags": "warn",
           "onInlineAuthors": "warn",
-          "onUntruncatedBlogPosts": "warn"
+          "onUntruncatedBlogPosts": "warn",
+          "blogTitle": "Notas de Versão",
+          "blogDescription": "Acompanhe as atualizações e novidades do sistema Iara",
+          "blogSidebarTitle": "Todas as versões",
+          "blogSidebarCount": "ALL",
+          "routeBasePath": "notas-de-versao",
+          "path": "notas-de-versao"
         },
         "theme": {
           "customCss": "./src/css/custom.css"
@@ -49,10 +54,29 @@ export default {
       }
     ]
   ],
+  "themes": [
+    [
+      "C:\\xampp\\htdocs\\IARA DOCS GIT\\iaradocsgit\\node_modules\\@easyops-cn\\docusaurus-search-local\\dist\\server\\server\\index.js",
+      {
+        "hashed": true,
+        "language": [
+          "pt",
+          "en"
+        ],
+        "highlightSearchTermsOnTargetPage": true,
+        "explicitSearchResultPath": true,
+        "docsRouteBasePath": "/docs",
+        "indexBlog": true,
+        "indexDocs": true,
+        "indexPages": false,
+        "searchBarShortcutHint": false
+      }
+    ]
+  ],
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "Docs",
+      "title": "",
       "logo": {
         "alt": "Iara Docs Logo",
         "src": "img/logo.svg"
@@ -62,11 +86,21 @@ export default {
           "type": "docSidebar",
           "sidebarId": "tutorialSidebar",
           "position": "left",
-          "label": "Tutorial"
+          "label": "📚 Documentação"
         },
         {
-          "to": "/blog",
-          "label": "Notas de Versão",
+          "to": "/notas-de-versao",
+          "label": "📝 Notas de Versão",
+          "position": "left"
+        },
+        {
+          "to": "/solicitar-melhoria",
+          "label": "💡 Solicitar Melhoria",
+          "position": "left"
+        },
+        {
+          "to": "/relatar-bug",
+          "label": "🐛 Relatar Bug",
           "position": "left"
         }
       ],
@@ -76,20 +110,50 @@ export default {
       "style": "dark",
       "links": [
         {
-          "title": "Docs",
+          "title": "Documentação",
           "items": [
             {
-              "label": "Tutorial",
+              "label": "Introdução",
               "to": "/docs/intro"
             },
             {
+              "label": "Chat",
+              "to": "/docs/Chat"
+            },
+            {
+              "label": "Cotações",
+              "to": "/docs/Cotação Arquivo"
+            }
+          ]
+        },
+        {
+          "title": "Suporte",
+          "items": [
+            {
+              "label": "Solicitar Melhoria",
+              "to": "/solicitar-melhoria"
+            },
+            {
+              "label": "Relatar Bug",
+              "to": "/relatar-bug"
+            },
+            {
+              "label": "Contato",
+              "href": "mailto:suporte@iara.com"
+            }
+          ]
+        },
+        {
+          "title": "Mais",
+          "items": [
+            {
               "label": "Notas de Versão",
-              "to": "/blog"
+              "to": "/notas-de-versao"
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2025 Iara Docs"
+      "copyright": "Copyright © 2025 Iara Tech. Todos os direitos reservados."
     },
     "prism": {
       "theme": {
@@ -320,13 +384,19 @@ export default {
   },
   "baseUrlIssueBanner": true,
   "future": {
+    "v4": {
+      "removeLegacyPostBuildHeadAttribute": false,
+      "useCssCascadeLayers": false
+    },
     "experimental_faster": {
       "swcJsLoader": false,
       "swcJsMinimizer": false,
       "swcHtmlMinimizer": false,
       "lightningCssMinimizer": false,
       "mdxCrossCompilerCache": false,
-      "rspackBundler": false
+      "rspackBundler": false,
+      "rspackPersistentCache": false,
+      "ssgWorkerThreads": false
     },
     "experimental_storage": {
       "type": "localStorage",
@@ -341,7 +411,6 @@ export default {
   ],
   "customFields": {},
   "plugins": [],
-  "themes": [],
   "scripts": [],
   "headTags": [],
   "stylesheets": [],
@@ -351,6 +420,7 @@ export default {
   "markdown": {
     "format": "mdx",
     "mermaid": false,
+    "emoji": true,
     "mdx1Compat": {
       "comments": true,
       "admonitions": true,
@@ -358,6 +428,10 @@ export default {
     },
     "anchors": {
       "maintainCase": false
+    },
+    "hooks": {
+      "onBrokenMarkdownLinks": "warn",
+      "onBrokenMarkdownImages": "throw"
     }
   }
 };
