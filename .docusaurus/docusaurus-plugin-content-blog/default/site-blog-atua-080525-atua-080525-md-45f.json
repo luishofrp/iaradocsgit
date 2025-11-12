@@ -1,0 +1,20 @@
+{
+  "permalink": "/blog/atua_080525/atua_080525",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/atua_080525/atua_080525.md",
+  "source": "@site/blog/atua_080525/atua_080525.md",
+  "title": "Atualização 08/05/2025",
+  "description": "📚 Sumário",
+  "date": "2025-11-12T13:42:59.923Z",
+  "tags": [],
+  "readingTime": 2.63,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Atualização 10/03/2025",
+    "permalink": "/blog/atua_100325/atua_100325"
+  }
+}

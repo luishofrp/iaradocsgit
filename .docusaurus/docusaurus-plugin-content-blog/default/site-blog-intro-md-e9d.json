@@ -1,0 +1,24 @@
+{
+  "permalink": "/blog/intro",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/intro.md",
+  "source": "@site/blog/intro.md",
+  "title": "Notas de Versão",
+  "description": "Nesta página, você encontrará o histórico de atualizações do sistema. Todas as novas funcionalidades, melhorias e correções serão documentadas aqui, junto com a data de publicação de cada versão.",
+  "date": "2025-03-12T12:49:08.000Z",
+  "tags": [],
+  "readingTime": 0.375,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Atualização 08/05/2025",
+    "permalink": "/blog/atua_080525/atua_080525"
+  },
+  "nextItem": {
+    "title": "Atualização 10/03/2025",
+    "permalink": "/blog/atua_100325/atua_100325"
+  }
+}

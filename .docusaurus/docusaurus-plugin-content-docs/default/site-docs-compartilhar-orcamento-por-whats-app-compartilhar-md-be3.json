@@ -1,0 +1,27 @@
+{
+  "id": "Compartilhar Orçamento por WhatsApp/compartilhar",
+  "title": "Compartilhar Orçamento por WhatsApp",
+  "description": "Aprenda como compartilhar orçamentos via WhatsApp vinculando contatos às empresas",
+  "source": "@site/docs/Compartilhar Orçamento por WhatsApp/compartilhar.md",
+  "sourceDirName": "Compartilhar Orçamento por WhatsApp",
+  "slug": "/Compartilhar Orçamento por WhatsApp/compartilhar",
+  "permalink": "/docs/Compartilhar Orçamento por WhatsApp/compartilhar",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Compartilhar Orçamento por WhatsApp/compartilhar.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Compartilhar Orçamento por WhatsApp",
+    "description": "Aprenda como compartilhar orçamentos via WhatsApp vinculando contatos às empresas"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "IARA Chat",
+    "permalink": "/docs/Chat/iarachat"
+  },
+  "next": {
+    "title": "Importação",
+    "permalink": "/docs/Contrato/fluxocotacaoarquivo"
+  }
+}

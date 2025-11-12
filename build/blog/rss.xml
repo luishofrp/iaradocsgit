@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Iara Docs Blog</title>
+        <link>https://your-docusaurus-site.example.com/blog</link>
+        <description>Iara Docs Blog</description>
+        <lastBuildDate>Wed, 12 Mar 2025 12:26:10 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>pt-br</language>
+        <item>
+            <title><![CDATA[Atualização 10/03/2025]]></title>
+            <link>https://your-docusaurus-site.example.com/blog/atua_100325/atua_100325</link>
+            <guid>https://your-docusaurus-site.example.com/blog/atua_100325/atua_100325</guid>
+            <pubDate>Wed, 12 Mar 2025 12:26:10 GMT</pubDate>
+            <description><![CDATA[📌 Sumário]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-sumário">📌 Sumário<a href="https://your-docusaurus-site.example.com/blog/atua_100325/atua_100325#-sum%C3%A1rio" class="hash-link" aria-label="Link direto para 📌 Sumário" title="Link direto para 📌 Sumário">​</a></h2>
+<ol>
+<li><a href="https://your-docusaurus-site.example.com/blog/atua_100325/atua_100325#busca-inteligente-no-cat%C3%A1logo-com-elastic-search">Busca Inteligente no Catálogo com Elastic Search</a></li>
+<li><a href="https://your-docusaurus-site.example.com/blog/atua_100325/atua_100325#exibi%C3%A7%C3%A3o-do-c%C3%B3digo-original-no-carrinho---portal-b2b">Exibição do Código Original no Carrinho - Portal B2B</a></li>
+<li><a href="https://your-docusaurus-site.example.com/blog/atua_100325/atua_100325#desbloqueio-de-usu%C3%A1rio-e-redefini%C3%A7%C3%A3o-de-senha---portal-b2b">Desbloqueio de Usuário e Redefinição de Senha - Portal B2B</a></li>
+<li><a href="https://your-docusaurus-site.example.com/blog/atua_100325/atua_100325#exporta%C3%A7%C3%A3o-de-cota%C3%A7%C3%A3o-em-pdf-e-novo-modelo-de-impress%C3%A3o">Exportação de Cotação em PDF e Novo Modelo de Impressão</a></li>
+</ol>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-busca-inteligente-no-catálogo-com-elastic-search">🛒 Busca Inteligente no Catálogo com Elastic Search<a href="https://your-docusaurus-site.example.com/blog/atua_100325/atua_100325#-busca-inteligente-no-cat%C3%A1logo-com-elastic-search" class="hash-link" aria-label="Link direto para 🛒 Busca Inteligente no Catálogo com Elastic Search" title="Link direto para 🛒 Busca Inteligente no Catálogo com Elastic Search">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="alt text" src="https://your-docusaurus-site.example.com/assets/images/image-1ce8a65167e5a6a98756c89546665e1c.png" width="2198" height="526" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="melhorias-na-pesquisa">Melhorias na Pesquisa:<a href="https://your-docusaurus-site.example.com/blog/atua_100325/atua_100325#melhorias-na-pesquisa" class="hash-link" aria-label="Link direto para Melhorias na Pesquisa:" title="Link direto para Melhorias na Pesquisa:">​</a></h3>
+<ul>
+<li><strong>Busca Avançada e Flexível:</strong>
+<ul>
+<li>Integração com Elastic Search permite buscas por termos, código, referências.</li>
+</ul>
+</li>
+<li><strong>Resultados Instantâneos:</strong>
+<ul>
+<li>Performance otimizada para respostas, mesmo com vários itens.</li>
+</ul>
+</li>
+<li><strong>Precisão Aprimorada:</strong>
+<ul>
+<li>Score de relevância ajustado para priorizar os resultados mais próximos da intenção do usuário.</li>
+</ul>
+</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="por-que-é-bom">Por que é bom?<a href="https://your-docusaurus-site.example.com/blog/atua_100325/atua_100325#por-que-%C3%A9-bom" class="hash-link" aria-label="Link direto para Por que é bom?" title="Link direto para Por que é bom?">​</a></h3>
+<ul>
+<li>✅ <strong>Eficiência:</strong> Encontre o que precisa em segundos.</li>
+<li>✅ <strong>Experiência intuitiva:</strong> Buscas mais naturais e sem complicações.</li>
+<li>✅ <strong>Escalável:</strong> Suporta crescimento contínuo do catálogo.</li>
+</ul>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="️-exibição-do-código-original-no-carrinho---portal-b2b">🏷️ Exibição do Código Original no Carrinho - Portal B2B<a href="https://your-docusaurus-site.example.com/blog/atua_100325/atua_100325#%EF%B8%8F-exibi%C3%A7%C3%A3o-do-c%C3%B3digo-original-no-carrinho---portal-b2b" class="hash-link" aria-label="Link direto para 🏷️ Exibição do Código Original no Carrinho - Portal B2B" title="Link direto para 🏷️ Exibição do Código Original no Carrinho - Portal B2B">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="alt text" src="https://your-docusaurus-site.example.com/assets/images/image-1-8c7b9f8fc4a577539aaef92650896d42.png" width="1818" height="494" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="o-que-mudou">O que mudou:<a href="https://your-docusaurus-site.example.com/blog/atua_100325/atua_100325#o-que-mudou" class="hash-link" aria-label="Link direto para O que mudou:" title="Link direto para O que mudou:">​</a></h3>
+<ul>
+<li><strong>Visibilidade Instantânea:</strong>
+<ul>
+<li>Agora, o código original do item é exibido diretamente no carrinho de compras.</li>
+</ul>
+</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="benefícios">Benefícios:<a href="https://your-docusaurus-site.example.com/blog/atua_100325/atua_100325#benef%C3%ADcios" class="hash-link" aria-label="Link direto para Benefícios:" title="Link direto para Benefícios:">​</a></h3>
+<ul>
+<li>🔍 <strong>Transparência:</strong> Permite ao usuário confirmar rapidamente se o item adicionado corresponde ao código esperado.</li>
+<li>📋 <strong>Redução de Erros:</strong> Facilita a verificação.</li>
+<li>🛠 <strong>Gestão Simplificada:</strong> Ajuda equipes de compras.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="por-que-importa">Por que importa?<a href="https://your-docusaurus-site.example.com/blog/atua_100325/atua_100325#por-que-importa" class="hash-link" aria-label="Link direto para Por que importa?" title="Link direto para Por que importa?">​</a></h3>
+<ul>
+<li>✅ <strong>Confiança:</strong> Clareza na identificação do produto.</li>
+<li>✅ <strong>Agilidade:</strong> Elimina etapas de consulta.</li>
+</ul>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-desbloqueio-de-usuário-e-redefinição-de-senha---portal-b2b">🔓 Desbloqueio de Usuário e Redefinição de Senha - Portal B2B<a href="https://your-docusaurus-site.example.com/blog/atua_100325/atua_100325#-desbloqueio-de-usu%C3%A1rio-e-redefini%C3%A7%C3%A3o-de-senha---portal-b2b" class="hash-link" aria-label="Link direto para 🔓 Desbloqueio de Usuário e Redefinição de Senha - Portal B2B" title="Link direto para 🔓 Desbloqueio de Usuário e Redefinição de Senha - Portal B2B">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="alt text" src="https://your-docusaurus-site.example.com/assets/images/image-2-cb3c34ee1693b81e8082565c03c878c4.png" width="2178" height="676" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="o-que-mudou-1">O que mudou:<a href="https://your-docusaurus-site.example.com/blog/atua_100325/atua_100325#o-que-mudou-1" class="hash-link" aria-label="Link direto para O que mudou:" title="Link direto para O que mudou:">​</a></h3>
+<ul>
+<li><strong>Ícone de Cadeado Aberto na Tela de Cadastro:</strong>
+<ul>
+<li>Um cadeado será exibido ao lado da lixeira do usuário bloqueado.</li>
+</ul>
+</li>
+<li><strong>Desbloqueio Imediato:</strong>
+<ul>
+<li>O gestor pode clicar no ícone para liberar o acesso do usuário.</li>
+</ul>
+</li>
+<li><strong>Redefinição de Senha Direta:</strong>
+<ul>
+<li>Na mesma tela, é possível criar uma nova senha para o usuário.</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-exportação-de-cotação-em-pdf-e-novo-modelo-de-impressão">📄 Exportação de Cotação em PDF e Novo Modelo de Impressão<a href="https://your-docusaurus-site.example.com/blog/atua_100325/atua_100325#-exporta%C3%A7%C3%A3o-de-cota%C3%A7%C3%A3o-em-pdf-e-novo-modelo-de-impress%C3%A3o" class="hash-link" aria-label="Link direto para 📄 Exportação de Cotação em PDF e Novo Modelo de Impressão" title="Link direto para 📄 Exportação de Cotação em PDF e Novo Modelo de Impressão">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="alt text" src="https://your-docusaurus-site.example.com/assets/images/image-3-1923ed0140218a9b5782881485dda8e9.png" width="2188" height="642" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="o-que-mudou-2">O que mudou:<a href="https://your-docusaurus-site.example.com/blog/atua_100325/atua_100325#o-que-mudou-2" class="hash-link" aria-label="Link direto para O que mudou:" title="Link direto para O que mudou:">​</a></h3>
+<ul>
+<li><strong>Novo Modelo de Impressão:</strong>
+<ul>
+<li>Layout atualizado seguindo novo padrão, com cabeçalho contendo dados da MMarra.</li>
+</ul>
+</li>
+<li><strong>PDF Direto sem Impressão:</strong>
+<ul>
+<li>Botão "Salvar como PDF" na tela da cotação para exportação rápida, mantendo formatação e paginação (1 ou mais páginas).</li>
+</ul>
+</li>
+<li><strong>Simplificação de Campos</strong></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="benefícios-1">Benefícios:<a href="https://your-docusaurus-site.example.com/blog/atua_100325/atua_100325#benef%C3%ADcios-1" class="hash-link" aria-label="Link direto para Benefícios:" title="Link direto para Benefícios:">​</a></h3>
+<ul>
+<li>📄 <strong>Profissionalismo:</strong> Modelo padronizado e visualmente clean para impressão ou compartilhamento.</li>
+<li>⏱️ <strong>Eficiência:</strong> Geração de PDF em um clique, sem abrir a tela de impressão.</li>
+<li>🔍 <strong>Clareza:</strong> Foco nas informações essenciais (itens, quantidades e dados da empresa).</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="por-que-é-relevante">Por que é relevante?<a href="https://your-docusaurus-site.example.com/blog/atua_100325/atua_100325#por-que-%C3%A9-relevante" class="hash-link" aria-label="Link direto para Por que é relevante?" title="Link direto para Por que é relevante?">​</a></h3>
+<ul>
+<li>✅ <strong>Padronização:</strong> Alinhamento com a identidade visual da empresa.</li>
+<li>✅ <strong>Praticidade:</strong> Facilita o armazenamento e envio de cotações para clientes.</li>
+</ul>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Notas de Versão]]></title>
+            <link>https://your-docusaurus-site.example.com/blog/intro</link>
+            <guid>https://your-docusaurus-site.example.com/blog/intro</guid>
+            <pubDate>Tue, 11 Mar 2025 17:34:07 GMT</pubDate>
+            <description><![CDATA[Nesta página, você encontrará o histórico de atualizações do sistema. Todas as novas funcionalidades, melhorias e correções serão documentadas aqui, junto com a data de publicação de cada versão.]]></description>
+            <content:encoded><![CDATA[<p>Nesta página, você encontrará o histórico de atualizações do sistema. Todas as novas funcionalidades, melhorias e correções serão documentadas aqui, junto com a <strong>data de publicação</strong> de cada versão.</p>
+<p>Acompanhe regularmente para ficar por dentro das últimas mudanças! 🚀</p>
+<p>Cada versão incluirá:<br>
+<!-- -->✅ <strong>Novas funcionalidades</strong> implementadas.<br>
+<!-- -->🔧 <strong>Melhorias</strong> em usabilidade, desempenho e segurança.<br>
+<!-- -->🐞 <strong>Correções</strong> de erros e ajustes no sistema.</p>
+<p>Você pode navegar pelas versões anteriores para conferir todas as atualizações já realizadas.</p>
+<hr>]]></content:encoded>
+        </item>
+    </channel>
+</rss>

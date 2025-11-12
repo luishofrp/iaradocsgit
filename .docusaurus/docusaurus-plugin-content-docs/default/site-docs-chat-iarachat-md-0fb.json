@@ -1,0 +1,27 @@
+{
+  "id": "Chat/iarachat",
+  "title": "IARA Chat",
+  "description": "Sumário",
+  "source": "@site/docs/Chat/iarachat.md",
+  "sourceDirName": "Chat",
+  "slug": "/Chat/iarachat",
+  "permalink": "/docs/Chat/iarachat",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Chat/iarachat.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introdução ao Iara Docs",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "Compartilhar Orçamento por WhatsApp",
+    "permalink": "/docs/Compartilhar Orçamento por WhatsApp/compartilhar"
+  }
+}

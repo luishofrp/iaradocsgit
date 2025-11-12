@@ -1,0 +1,53 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "Chat/iarachat",
+              "path": "/docs/Chat/iarachat",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Compartilhar Orçamento por WhatsApp/compartilhar",
+              "path": "/docs/Compartilhar Orçamento por WhatsApp/compartilhar",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Contrato/fluxocotacaoarquivo",
+              "path": "/docs/Contrato/fluxocotacaoarquivo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Cotação Arquivo/fluxocotacaoarquivo",
+              "path": "/docs/Cotação Arquivo/fluxocotacaoarquivo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

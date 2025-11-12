@@ -1,0 +1,27 @@
+{
+  "id": "Contrato/fluxocotacaoarquivo",
+  "title": "Importação",
+  "description": "Sumário",
+  "source": "@site/docs/Contrato/fluxocotacaoarquivo.md",
+  "sourceDirName": "Contrato",
+  "slug": "/Contrato/fluxocotacaoarquivo",
+  "permalink": "/docs/Contrato/fluxocotacaoarquivo",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Contrato/fluxocotacaoarquivo.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Compartilhar Orçamento por WhatsApp",
+    "permalink": "/docs/Compartilhar Orçamento por WhatsApp/compartilhar"
+  },
+  "next": {
+    "title": "Importação",
+    "permalink": "/docs/Cotação Arquivo/fluxocotacaoarquivo"
+  }
+}

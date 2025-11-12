@@ -1,0 +1,23 @@
+{
+  "id": "Cotação Arquivo/fluxocotacaoarquivo",
+  "title": "Importação",
+  "description": "Sumário",
+  "source": "@site/docs/Cotação Arquivo/fluxocotacaoarquivo.md",
+  "sourceDirName": "Cotação Arquivo",
+  "slug": "/Cotação Arquivo/fluxocotacaoarquivo",
+  "permalink": "/docs/Cotação Arquivo/fluxocotacaoarquivo",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Cotação Arquivo/fluxocotacaoarquivo.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Importação",
+    "permalink": "/docs/Contrato/fluxocotacaoarquivo"
+  }
+}
