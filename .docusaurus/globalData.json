@@ -11,28 +11,33 @@
           "mainDocId": "intro",
           "docs": [
             {
-              "id": "Chat/iarachat",
-              "path": "/docs/Chat/iarachat",
+              "id": "chat/index",
+              "path": "/docs/chat/",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Compartilhar Orçamento por WhatsApp/compartilhar",
-              "path": "/docs/Compartilhar Orçamento por WhatsApp/compartilhar",
+              "id": "cotacoes/compartilhar",
+              "path": "/docs/cotacoes/compartilhar",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Contrato/fluxocotacaoarquivo",
-              "path": "/docs/Contrato/fluxocotacaoarquivo",
+              "id": "cotacoes/index",
+              "path": "/docs/cotacoes/",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Cotação Arquivo/fluxocotacaoarquivo",
-              "path": "/docs/Cotação Arquivo/fluxocotacaoarquivo",
+              "id": "cotacoes/orcamento",
+              "path": "/docs/cotacoes/orcamento",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dashboard/index",
+              "path": "/docs/dashboard/",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "intro",
-              "path": "/docs/intro",
+              "path": "/docs/",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -40,7 +45,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/intro",
+                "path": "/docs/",
                 "label": "intro"
               }
             }

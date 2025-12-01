@@ -9,8 +9,8 @@ export default {
   "favicon": "img/favicon.ico",
   "url": "https://docs.iara.tech",
   "baseUrl": "/",
-  "organizationName": "luishofrp",
-  "projectName": "iaradocsgit",
+  "organizationName": "iaratech",
+  "projectName": "docs",
   "onBrokenLinks": "throw",
   "i18n": {
     "defaultLocale": "pt-br",
@@ -92,16 +92,6 @@ export default {
           "to": "/notas-de-versao",
           "label": "📝 Notas de Versão",
           "position": "left"
-        },
-        {
-          "to": "/solicitar-melhoria",
-          "label": "💡 Solicitar Melhoria",
-          "position": "left"
-        },
-        {
-          "to": "/relatar-bug",
-          "label": "🐛 Relatar Bug",
-          "position": "left"
         }
       ],
       "hideOnScroll": false
@@ -115,28 +105,12 @@ export default {
             {
               "label": "Introdução",
               "to": "/docs/intro"
-            },
-            {
-              "label": "Chat",
-              "to": "/docs/Chat"
-            },
-            {
-              "label": "Cotações",
-              "to": "/docs/Cotação Arquivo"
             }
           ]
         },
         {
           "title": "Suporte",
           "items": [
-            {
-              "label": "Solicitar Melhoria",
-              "to": "/solicitar-melhoria"
-            },
-            {
-              "label": "Relatar Bug",
-              "to": "/relatar-bug"
-            },
             {
               "label": "Contato",
               "href": "mailto:suporte@iara.com"

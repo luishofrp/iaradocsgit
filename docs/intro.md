@@ -1,29 +1,48 @@
 ---
 sidebar_position: 1
+slug: /
 ---
 
-# Introdução ao Iara Docs
+# 👋 Introdução ao Iara Docs
 
 Bem-vindo ao **Iara Docs**, a documentação oficial para entender e utilizar os recursos da plataforma Iara.
 
-## O que é o Iara Docs?
+## O que é o Iara?
 
-O **Iara Docs** é um guia completo para ajudar usuários a navegar e utilizar as funcionalidades do sistema Iara, que centraliza processos de cotação, pedidos e gestão de fornecedores.
+O **Iara** é um sistema completo para gestão de:
+- 💰 Cotações e Orçamentos
+- 🛒 Pedidos
+- 📋 Contratos
+- 👥 Cadastros e Usuários
+- 📊 Dashboard e Relatórios
 
+## 🚀 Como Usar o Iara Docs?
 
-## Como Usar o Iara Docs?
+### Navegação por Módulos
 
-### 1. Acessando a Documentação
+A documentação está organizada por módulos do sistema. Use o menu lateral para navegar entre:
 
-Para acessar a documentação, basta navegar pelos tópicos na barra lateral. Você encontrará guias detalhados sobre:
+- **Dashboard** - Visão geral e indicadores
+- **Pesquisar** - Sistema de busca
+- **Cotações** - Gestão de cotações completa
+- **Pedido** - Gerenciamento de pedidos
+- **Contrato** - Contratos e vínculos
+- **Cadastros** - Usuários, empresas e configurações
 
-- Importação de cotações via arquivo.
-- Estrutura da planilha de cotação.
-- Parâmetros obrigatórios e opcionais.
-- Configurações e melhores práticas.
+### Busca Rápida
 
+Use a barra de busca no topo para encontrar rapidamente o que você precisa.
 
-### 2. Dicas e Soluções
+## 💡 Precisa de Ajuda?
 
-Caso encontre dificuldades ao utilizar o Iara Docs ou o sistema, entre em contato com o suporte.
+- 📝 [Ver Notas de Versão](/notas-de-versao)
 
+## 📞 Suporte
+
+Caso encontre dificuldades ao utilizar o Iara Docs ou o sistema, entre em contato:
+
+📧 Email: [luis.fachin@iara.tech](mailto:luis.fachin@iara.tech)
+
+---
+
+**Última atualização:** Novembro 2025

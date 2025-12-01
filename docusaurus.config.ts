@@ -7,16 +7,15 @@ const config: Config = {
   tagline: 'Documentação do Iara',
   favicon: 'img/favicon.ico',
 
-  // Configurações corrigidas para deploy
+  // Configurações para produção
   url: 'https://docs.iara.tech',
   baseUrl: '/',
 
   // GitHub pages deployment config
-  organizationName: 'luishofrp',
-  projectName: 'iaradocsgit',
+  organizationName: 'iaratech',
+  projectName: 'docs',
 
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
 
   i18n: {
     defaultLocale: 'pt-br',
@@ -55,7 +54,7 @@ const config: Config = {
     ],
   ],
 
-  // Adicionar plugin de busca local
+  // Plugin de busca local
   themes: [
     [
       require.resolve("@easyops-cn/docusaurus-search-local"),
@@ -93,16 +92,7 @@ const config: Config = {
           label: '📝 Notas de Versão', 
           position: 'left'
         },
-        {
-          to: '/solicitar-melhoria',
-          label: '💡 Solicitar Melhoria',
-          position: 'left'
-        },
-        {
-          to: '/relatar-bug',
-          label: '🐛 Relatar Bug',
-          position: 'left'
-        },
+        
       ],
     },
     footer: {
@@ -115,28 +105,12 @@ const config: Config = {
               label: 'Introdução',
               to: '/docs/intro',
             },
-            {
-              label: 'Chat',
-              to: '/docs/Chat',
-            },
-            {
-              label: 'Cotações',
-              to: '/docs/Cotação Arquivo',
-            },
           ],
         },
         {
           title: 'Suporte',
           items: [
-            {
-              label: 'Solicitar Melhoria',
-              to: '/solicitar-melhoria',
-            },
-            {
-              label: 'Relatar Bug',
-              to: '/relatar-bug',
-            },
-            {
+                        {
               label: 'Contato',
               href: 'mailto:suporte@iara.com',
             },

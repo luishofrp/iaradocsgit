@@ -67,8 +67,8 @@
 .formGroup select:focus,
 .formGroup textarea:focus {
   outline: none;
-  border-color: var(--ifm-color-primary);
-  box-shadow: 0 0 0 3px rgba(233, 30, 99, 0.1);
+  border-color: #e91e63;
+  box-shadow: 0 0 0 3px rgba(233, 30, 99, 0.15);
 }
 
 .formGroup textarea {
@@ -127,6 +127,22 @@
 .successMessage p {
   font-size: 1.1rem;
   opacity: 0.95;
+}
+
+.errorMessage {
+  background: linear-gradient(135deg, #f44336 0%, #d32f2f 100%);
+  color: white;
+  padding: 1.5rem;
+  border-radius: 8px;
+  text-align: center;
+  margin-bottom: 2rem;
+  animation: slideIn 0.5s ease-out;
+}
+
+.errorMessage p {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: 500;
 }
 
 @keyframes slideIn {

@@ -2,65 +2,71 @@
   "/__docusaurus/debug-5ff": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---iaradocsgit-docusaurus-debugb-38-4b4"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
   "/__docusaurus/debug/config-5ba": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---iaradocsgit-docusaurus-debugb-38-4b4"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
   "/__docusaurus/debug/content-a2b": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---iaradocsgit-docusaurus-debugb-38-4b4"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     },
     "__props": "__props---docusaurus-debug-content-3-c-0-be2"
   },
   "/__docusaurus/debug/globalData-c3c": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---iaradocsgit-docusaurus-debugb-38-4b4"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
   "/__docusaurus/debug/metadata-156": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---iaradocsgit-docusaurus-debugb-38-4b4"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
   "/__docusaurus/debug/registry-88c": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---iaradocsgit-docusaurus-debugb-38-4b4"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
   "/__docusaurus/debug/routes-000": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---iaradocsgit-docusaurus-debugb-38-4b4"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
   "/markdown-page-3d7": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---iaradocsgit-markdown-pagea-74-bb9"
+      "plugin": "plugin---markdown-pagea-74-7b5"
     },
-    "content": "content---iaradocsgit-markdown-page-393-9a9"
+    "content": "content---markdown-page-393-028"
   },
-  "/notas-de-versao-e11": {
+  "/notas-de-versao-34c": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
-      "plugin": "plugin---iaradocsgit-notas-de-versao-369-447"
+      "plugin": "plugin---notas-de-versao-369-34d"
     },
-    "sidebar": "sidebar---iaradocsgit-notas-de-versao-814-1d9",
+    "sidebar": "sidebar---notas-de-versao-814-5e6",
     "items": [
       {
-        "content": "content---iaradocsgit-notas-de-versaoaf-8-d00"
+        "content": "content---notas-de-versao-095-d09"
       },
       {
-        "content": "content---iaradocsgit-notas-de-versao-5-f-3-bbb"
+        "content": "content---notas-de-versao-351-a6e"
+      },
+      {
+        "content": "content---notas-de-versaoaf-8-62b"
+      },
+      {
+        "content": "content---notas-de-versao-5-f-3-35c"
       }
     ],
     "__props": "__props---notas-de-versao-3-a-8-bd4"
@@ -68,7 +74,7 @@
   "/notas-de-versao/archive-988": {
     "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
-      "plugin": "plugin---iaradocsgit-notas-de-versao-369-447"
+      "plugin": "plugin---notas-de-versao-369-34d"
     },
     "__props": "__props---notas-de-versao-archiveaf-9-de8"
   },
@@ -76,71 +82,105 @@
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---iaradocsgit-notas-de-versao-atua-080525-atua-080525-ace-bf0"
+        "blogMetadata": "blogMetadata---notas-de-versao-atua-080525-atua-080525-ace-ec6"
       },
-      "plugin": "plugin---iaradocsgit-notas-de-versao-369-447"
+      "plugin": "plugin---notas-de-versao-369-34d"
     },
-    "sidebar": "sidebar---iaradocsgit-notas-de-versao-814-1d9",
-    "content": "content---iaradocsgit-notas-de-versao-atua-080525-atua-080525-d-5-d-fde"
+    "sidebar": "sidebar---notas-de-versao-814-5e6",
+    "content": "content---notas-de-versao-atua-080525-atua-080525-d-5-d-d5d"
   },
   "/notas-de-versao/atua_100325/atua_100325-d26": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---iaradocsgit-notas-de-versao-atua-080525-atua-080525-ace-bf0"
+        "blogMetadata": "blogMetadata---notas-de-versao-atua-080525-atua-080525-ace-ec6"
       },
-      "plugin": "plugin---iaradocsgit-notas-de-versao-369-447"
+      "plugin": "plugin---notas-de-versao-369-34d"
     },
-    "sidebar": "sidebar---iaradocsgit-notas-de-versao-814-1d9",
-    "content": "content---iaradocsgit-notas-de-versao-atua-100325-atua-100325-e-1-d-146"
+    "sidebar": "sidebar---notas-de-versao-814-5e6",
+    "content": "content---notas-de-versao-atua-100325-atua-100325-e-1-d-b78"
+  },
+  "/notas-de-versao/atua_251125/atua_251125-f04": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---notas-de-versao-atua-080525-atua-080525-ace-ec6"
+      },
+      "plugin": "plugin---notas-de-versao-369-34d"
+    },
+    "sidebar": "sidebar---notas-de-versao-814-5e6",
+    "content": "content---notas-de-versao-atua-251125-atua-251125-ec-9-37c"
+  },
+  "/notas-de-versao/atua_301125/atua_301125-00d": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---notas-de-versao-atua-080525-atua-080525-ace-ec6"
+      },
+      "plugin": "plugin---notas-de-versao-369-34d"
+    },
+    "sidebar": "sidebar---notas-de-versao-814-5e6",
+    "content": "content---notas-de-versao-atua-301125-atua-3011257-bd-1e8"
   },
   "/notas-de-versao/authors-ea0": {
     "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---iaradocsgit-notas-de-versao-atua-080525-atua-080525-ace-bf0"
+        "blogMetadata": "blogMetadata---notas-de-versao-atua-080525-atua-080525-ace-ec6"
       },
-      "plugin": "plugin---iaradocsgit-notas-de-versao-369-447"
+      "plugin": "plugin---notas-de-versao-369-34d"
     },
-    "sidebar": "sidebar---iaradocsgit-notas-de-versao-814-1d9",
+    "sidebar": "sidebar---notas-de-versao-814-5e6",
     "__props": "__props---notas-de-versao-authorscbc-425"
   },
   "/notas-de-versao/tags-00b": {
     "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
     "__context": {
-      "plugin": "plugin---iaradocsgit-notas-de-versao-369-447"
+      "plugin": "plugin---notas-de-versao-369-34d"
     },
-    "sidebar": "sidebar---iaradocsgit-notas-de-versao-814-1d9",
+    "sidebar": "sidebar---notas-de-versao-814-5e6",
     "__props": "__props---notas-de-versao-tagsf-20-314"
   },
-  "/notas-de-versao/tags/atualizacao-ba9": {
+  "/notas-de-versao/tags/atualizacao-475": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---iaradocsgit-notas-de-versao-369-447"
+      "plugin": "plugin---notas-de-versao-369-34d"
     },
-    "sidebar": "sidebar---iaradocsgit-notas-de-versao-814-1d9",
+    "sidebar": "sidebar---notas-de-versao-814-5e6",
     "items": [
       {
-        "content": "content---iaradocsgit-notas-de-versaoaf-8-d00"
+        "content": "content---notas-de-versao-095-d09"
       },
       {
-        "content": "content---iaradocsgit-notas-de-versao-5-f-3-bbb"
+        "content": "content---notas-de-versao-351-a6e"
+      },
+      {
+        "content": "content---notas-de-versaoaf-8-62b"
+      },
+      {
+        "content": "content---notas-de-versao-5-f-3-35c"
       }
     ],
     "__props": "__props---notas-de-versao-tags-atualizacaoaa-2-976"
   },
-  "/notas-de-versao/tags/features-8d7": {
+  "/notas-de-versao/tags/features-f4d": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---iaradocsgit-notas-de-versao-369-447"
+      "plugin": "plugin---notas-de-versao-369-34d"
     },
-    "sidebar": "sidebar---iaradocsgit-notas-de-versao-814-1d9",
+    "sidebar": "sidebar---notas-de-versao-814-5e6",
     "items": [
       {
-        "content": "content---iaradocsgit-notas-de-versaoaf-8-d00"
+        "content": "content---notas-de-versao-095-d09"
       },
       {
-        "content": "content---iaradocsgit-notas-de-versao-5-f-3-bbb"
+        "content": "content---notas-de-versao-351-a6e"
+      },
+      {
+        "content": "content---notas-de-versaoaf-8-62b"
+      },
+      {
+        "content": "content---notas-de-versao-5-f-3-35c"
       }
     ],
     "__props": "__props---notas-de-versao-tags-features-07-f-69d"
@@ -148,61 +188,65 @@
   "/relatar-bug-167": {
     "__comp": "__comp---site-src-pages-relatar-bug-tsxe-95-465",
     "__context": {
-      "plugin": "plugin---iaradocsgit-markdown-pagea-74-bb9"
+      "plugin": "plugin---markdown-pagea-74-7b5"
     },
-    "config": "config---iaradocsgit-relatar-bug-5-e-9-2fb"
+    "config": "config---relatar-bug-5-e-9-936"
   },
   "/search-822": {
     "__comp": "__comp---theme-search-page-1-a-4-d6f",
     "__context": {
-      "plugin": "plugin---iaradocsgit-search-138-57b"
+      "plugin": "plugin---search-138-688"
     }
   },
   "/solicitar-melhoria-a3f": {
     "__comp": "__comp---site-src-pages-solicitar-melhoria-tsxeda-6c8",
     "__context": {
-      "plugin": "plugin---iaradocsgit-markdown-pagea-74-bb9"
+      "plugin": "plugin---markdown-pagea-74-7b5"
     },
-    "config": "config---iaradocsgit-relatar-bug-5-e-9-2fb"
+    "config": "config---relatar-bug-5-e-9-936"
   },
-  "/docs-079": {
+  "/docs-b77": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
-      "plugin": "plugin---iaradocsgit-docsaba-1cb"
+      "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-1f2": {
+  "/docs-871": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-493": {
+  "/docs-82e": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
-  "/docs/Chat/iarachat-7f7": {
+  "/docs/-698": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---iaradocsgit-docs-chat-iarachat-0-fb-36b"
+    "content": "content---docs-0-e-3-18c"
   },
-  "/docs/Compartilhar Orçamento por WhatsApp/compartilhar-381": {
+  "/docs/chat/-162": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---iaradocsgit-docs-compartilhar-orcamento-por-whats-app-compartilharbe-3-c0e"
+    "content": "content---docs-chat-028-cb1"
   },
-  "/docs/Contrato/fluxocotacaoarquivo-6f9": {
+  "/docs/cotacoes/-3e7": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---iaradocsgit-docs-contrato-fluxocotacaoarquivo-368-624"
+    "content": "content---docs-cotacoes-40-a-7ee"
   },
-  "/docs/Cotação Arquivo/fluxocotacaoarquivo-9a5": {
+  "/docs/cotacoes/compartilhar-073": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---iaradocsgit-docs-cotacao-arquivo-fluxocotacaoarquivoba-9-05c"
+    "content": "content---docs-cotacoes-compartilhar-8-b-4-73c"
   },
-  "/docs/intro-61d": {
+  "/docs/cotacoes/orcamento-ffe": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---iaradocsgit-docs-intro-0-e-3-764"
+    "content": "content---docs-cotacoes-orcamentod-6-f-9ea"
+  },
+  "/docs/dashboard/-9a7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-dashboard-6-dd-b16"
   },
   "/-e5f": {
     "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
     "__context": {
-      "plugin": "plugin---iaradocsgit-markdown-pagea-74-bb9"
+      "plugin": "plugin---markdown-pagea-74-7b5"
     },
-    "config": "config---iaradocsgit-relatar-bug-5-e-9-2fb"
+    "config": "config---relatar-bug-5-e-9-936"
   }
 }

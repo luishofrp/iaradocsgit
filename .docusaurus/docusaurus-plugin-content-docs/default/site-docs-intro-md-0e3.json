@@ -1,11 +1,11 @@
 {
   "id": "intro",
-  "title": "Introdução ao Iara Docs",
+  "title": "👋 Introdução ao Iara Docs",
   "description": "Bem-vindo ao Iara Docs, a documentação oficial para entender e utilizar os recursos da plataforma Iara.",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
-  "slug": "/intro",
-  "permalink": "/docs/intro",
+  "slug": "/",
+  "permalink": "/docs/",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/luishofrp/iaradocsgit/tree/main/docs/intro.md",
@@ -13,11 +13,12 @@
   "version": "current",
   "sidebarPosition": 1,
   "frontMatter": {
-    "sidebar_position": 1
+    "sidebar_position": 1,
+    "slug": "/"
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "IARA Chat",
-    "permalink": "/docs/Chat/iarachat"
+    "title": "📊 Dashboard",
+    "permalink": "/docs/dashboard/"
   }
 }

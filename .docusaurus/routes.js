@@ -44,7 +44,7 @@ export default [
   },
   {
     path: '/notas-de-versao',
-    component: ComponentCreator('/notas-de-versao', 'e11'),
+    component: ComponentCreator('/notas-de-versao', '34c'),
     exact: true
   },
   {
@@ -63,6 +63,16 @@ export default [
     exact: true
   },
   {
+    path: '/notas-de-versao/atua_251125/atua_251125',
+    component: ComponentCreator('/notas-de-versao/atua_251125/atua_251125', 'f04'),
+    exact: true
+  },
+  {
+    path: '/notas-de-versao/atua_301125/atua_301125',
+    component: ComponentCreator('/notas-de-versao/atua_301125/atua_301125', '00d'),
+    exact: true
+  },
+  {
     path: '/notas-de-versao/authors',
     component: ComponentCreator('/notas-de-versao/authors', 'ea0'),
     exact: true
@@ -74,12 +84,12 @@ export default [
   },
   {
     path: '/notas-de-versao/tags/atualizacao',
-    component: ComponentCreator('/notas-de-versao/tags/atualizacao', 'ba9'),
+    component: ComponentCreator('/notas-de-versao/tags/atualizacao', '475'),
     exact: true
   },
   {
     path: '/notas-de-versao/tags/features',
-    component: ComponentCreator('/notas-de-versao/tags/features', '8d7'),
+    component: ComponentCreator('/notas-de-versao/tags/features', 'f4d'),
     exact: true
   },
   {
@@ -99,43 +109,49 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '079'),
+    component: ComponentCreator('/docs', 'b77'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '1f2'),
+        component: ComponentCreator('/docs', '871'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '493'),
+            component: ComponentCreator('/docs', '82e'),
             routes: [
               {
-                path: '/docs/Chat/iarachat',
-                component: ComponentCreator('/docs/Chat/iarachat', '7f7'),
+                path: '/docs/',
+                component: ComponentCreator('/docs/', '698'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Compartilhar Orçamento por WhatsApp/compartilhar',
-                component: ComponentCreator('/docs/Compartilhar Orçamento por WhatsApp/compartilhar', '381'),
+                path: '/docs/chat/',
+                component: ComponentCreator('/docs/chat/', '162'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Contrato/fluxocotacaoarquivo',
-                component: ComponentCreator('/docs/Contrato/fluxocotacaoarquivo', '6f9'),
+                path: '/docs/cotacoes/',
+                component: ComponentCreator('/docs/cotacoes/', '3e7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Cotação Arquivo/fluxocotacaoarquivo',
-                component: ComponentCreator('/docs/Cotação Arquivo/fluxocotacaoarquivo', '9a5'),
+                path: '/docs/cotacoes/compartilhar',
+                component: ComponentCreator('/docs/cotacoes/compartilhar', '073'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/intro',
-                component: ComponentCreator('/docs/intro', '61d'),
+                path: '/docs/cotacoes/orcamento',
+                component: ComponentCreator('/docs/cotacoes/orcamento', 'ffe'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/dashboard/',
+                component: ComponentCreator('/docs/dashboard/', '9a7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

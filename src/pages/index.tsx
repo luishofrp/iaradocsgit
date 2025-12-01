@@ -17,7 +17,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className={clsx('button button--primary button--lg', styles.button)}
-            to="/docs/intro">
+            to="/docs">
             Começar Agora 🚀
           </Link>
         </div>
@@ -54,18 +54,7 @@ const FeatureList: FeatureItem[] = [
         importação e melhores práticas.
       </>
     ),
-    link: '/docs/cotacao-arquivo',
-  },
-  {
-    title: '📋 Contratos',
-    icon: '📋',
-    description: (
-      <>
-        Documentação completa sobre gestão de contratos, aprovações e 
-        acompanhamento de processos contratuais.
-      </>
-    ),
-    link: '/docs/contrato',
+    link: '/docs/cotacoes',
   },
   {
     title: '📊 Orçamentos',
@@ -76,13 +65,13 @@ const FeatureList: FeatureItem[] = [
         para todas as funcionalidades.
       </>
     ),
-    link: '/docs/compartilhar-orcamento',
+    link: '/docs/cotacoes/orcamento',
   },
 ];
 
 function Feature({title, icon, description, link}: FeatureItem) {
   return (
-    <div className={clsx('col col--3')}>
+    <div className={clsx('col col--4')}>
       <Link to={link} className={styles.featureLink}>
         <div className={styles.featureCard}>
           <div className={styles.featureIcon}>{icon}</div>
@@ -113,7 +102,7 @@ function QuickLinks() {
             <div className={styles.quickLinkCard}>
               <h3>📝 Notas de Versão</h3>
               <p>Acompanhe as últimas atualizações e novidades do sistema.</p>
-              <Link to="/blog" className="button button--secondary">
+              <Link to="/notas-de-versao" className="button button--secondary">
                 Ver Atualizações
               </Link>
             </div>
